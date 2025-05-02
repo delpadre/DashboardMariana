@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+plotly
+openpyxl
+streamlit-extras
+matplotlib
+seaborn
+scipy
+plotnine
+PIL

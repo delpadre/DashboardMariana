@@ -1,0 +1,39 @@
+/* Fundo principal branco e texto lavanda escura */
+body {
+    background-color: #ffffff !important;
+    color: #4a355a;
+}
+
+/* Cor lavanda profunda nos elementos principais */
+[data-testid="stSidebar"] {
+    background-color: #5e4b8b !important;
+}
+
+[data-testid="stSidebar"] * {
+    color: white !important;
+}
+
+h1, h2, h3, h4 {
+    color: #5e4b8b;
+}
+
+/* Caixas bonitinhas */
+.lavender-box {
+    background-color: #f4f0fa;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #d7c4f0;
+    margin-bottom: 20px;
+}
+
+/* Banner lavanda com texto branco */
+.banner {
+    background-color: #5e4b8b;
+    color: white;
+    padding: 1.2rem;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
